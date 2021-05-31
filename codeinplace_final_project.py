@@ -22,7 +22,7 @@ def main():
         if response == "n":
             break
 
-
+#output of this file in auto.txt
 
 
 
